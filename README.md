@@ -1,6 +1,4 @@
-# 📄 README.md (Short & Professional)
 
-Copy-paste this:
 
 # 🤖 Simple Rule-Based Chatbot
 
